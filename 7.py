@@ -15,4 +15,4 @@ def count_sorted_vowel_strings(n):
 # Test Case
 input_n = 2
 result = count_sorted_vowel_strings(input_n)
-print(result)
+print(result)   

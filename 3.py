@@ -18,4 +18,4 @@ def is_happy(n):
 # Test Case
 input_number = 2
 result = is_happy(input_number)
-print(result)
+print(result) 

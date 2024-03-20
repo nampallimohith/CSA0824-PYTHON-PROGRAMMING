@@ -17,4 +17,4 @@ def modify_string(s):
 # Test Case
 input_string = "elephant"
 result = modify_string(input_string)
-print(result)
+print(result)  # Output: hggi

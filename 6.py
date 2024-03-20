@@ -15,6 +15,6 @@ def max_area(height):
     return max_area_val
 
 # Test Case
-input_array = [1, 5, 4, 3]
+input_array = [3,1,2,4,5]
 result = max_area(input_array)
-print(result)  # Output: 6
+print(result)  
